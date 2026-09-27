@@ -35,7 +35,7 @@
 * [Веб-сервис для совместного просмотра видео на Django](<https://github.com/NigelVoid/Boroom.git>)
 * [Веб-сервис для получения офферов за навыки (В разработке)](<https://github.com/NigelVoid/Ofblind.git>)
 #### Big Data: 
-* [Аналитическую система для оценки экономических показателей бизнеса и поведения клиентов](<https://github.com/NigelVoid/YandexFinalProject.git>)
+* [Аналитическая система для оценки экономических показателей бизнеса и поведения клиентов](<https://github.com/NigelVoid/YandexFinalProject.git>)
 ---
 
 ## Контакты для связи
